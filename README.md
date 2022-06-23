@@ -10,6 +10,7 @@
 <br> The part of the process of working through the vulnerability assessment that I found challenging was the dependency report. It is an entirely new concept for me, so throughout the course I struggled to connect different terminologies with different processes, and understand what it was exactly that some of these dependencies were supposed to accomplish when they operated correctly. One great thing about the dependecy report, though, is that it is very thorough. I was able to connect to various databases like NIST and MITRE to find more information when I came across a vulnerability that I did not completely understand.
 <br>
 <br> How did you approach the need to increase layers of security? What techniques or strategies would you use in the future to assess vulnerabilities and determine mitigation techniques?
+<br> My approach to increasing layers of security was to (a) recall the requests of the client and (b) putting myself in the shoes of someone who would be using the application. With all of the data breaches happening to major companies in recent years, I would understand why a patron of a company like Artemis Financial would not want to use a website that did not have secure connections.
 <br>
 <br> How did you ensure the code and software application were functional and secure? After refactoring code, how did you check to see whether you introduced new vulnerabilities?
 <br>
